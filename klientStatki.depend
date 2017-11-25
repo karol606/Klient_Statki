@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1511302293 source:c:\users\user\desktop\moje æwiczenia programy\klientstatki\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<winsock2.h>
+	"Staty.h"
+	"Gra.h"
+
+1510932128 c:\users\user\desktop\moje æwiczenia programy\klientstatki\include\staty.h
+	"Wyniki.h"
+
+1510932127 c:\users\user\desktop\moje æwiczenia programy\klientstatki\include\wyniki.h
+	<cstdio>
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
+1510932143 source:c:\users\user\desktop\moje æwiczenia programy\klientstatki\src\staty.cpp
+	"Staty.h"
+
+1510930733 source:c:\users\user\desktop\moje æwiczenia programy\klientstatki\src\wyniki.cpp
+	"Wyniki.h"
+
+1511302641 c:\users\user\desktop\moje æwiczenia programy\klientstatki\include\gra.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1510935632 source:c:\users\user\desktop\moje æwiczenia programy\klientstatki\src\gra.cpp
+	"Gra.h"
+

@@ -1,0 +1,10 @@
+1 karol3 20
+2 kod 5
+3 karol 5
+4 kod 4
+5 kod 4
+6 kod 4
+7 karol 4
+8 ko 3
+9 ko 3
+10 ko 3
